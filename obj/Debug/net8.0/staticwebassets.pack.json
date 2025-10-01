@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/Jake/Desktop/Chirp.Razor-kopi/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "/Users/Jake/Desktop/Chirp.Razor-kopi/wwwroot/favicon/favicon.ico",
+      "PackagePath": "staticwebassets/favicon/favicon.ico"
+    },
+    {
+      "Id": "/Users/Jake/Desktop/Chirp.Razor-kopi/wwwroot/images/icon1.png",
+      "PackagePath": "staticwebassets/images/icon1.png"
+    },
+    {
+      "Id": "/Users/Jake/Desktop/Chirp.Razor-kopi/wwwroot/sample/dump.sql",
+      "PackagePath": "staticwebassets/sample/dump.sql"
+    },
+    {
+      "Id": "/Users/Jake/Desktop/Chirp.Razor-kopi/wwwroot/sample/schema.sql",
+      "PackagePath": "staticwebassets/sample/schema.sql"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Chirp.Razor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Chirp.Razor.props",
+      "PackagePath": "build\\Chirp.Razor.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Chirp.Razor.props",
+      "PackagePath": "buildMultiTargeting\\Chirp.Razor.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Chirp.Razor.props",
+      "PackagePath": "buildTransitive\\Chirp.Razor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
