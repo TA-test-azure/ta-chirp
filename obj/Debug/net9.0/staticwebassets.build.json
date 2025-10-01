@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "clCt27BGoU2PYdya1I2k5e0NS+kjlE6HHrUvE42TBM0=",
+  "Hash": "Z5TCpzzSJGPY3d8XsQ52G4ubi7ZmR5is6GfjxtguDiM=",
   "Source": "Chirp.Razor",
   "BasePath": "_content/Chirp.Razor",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Chirp.Razor/wwwroot",
       "Source": "Chirp.Razor",
-      "ContentRoot": "/Users/Jake/Desktop/Chirp.Razor-kopi/wwwroot/",
+      "ContentRoot": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/wwwroot/",
       "BasePath": "_content/Chirp.Razor",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/Jake/Desktop/Chirp.Razor-kopi/obj/Debug/net9.0/compressed/736nyudt1j-411fskxpwz.gz",
+      "Identity": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/obj/Debug/net9.0/compressed/736nyudt1j-411fskxpwz.gz",
       "SourceId": "Chirp.Razor",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/Jake/Desktop/Chirp.Razor-kopi/obj/Debug/net9.0/compressed/",
+      "ContentRoot": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/Chirp.Razor",
       "RelativePath": "favicon/favicon#[.{fingerprint=411fskxpwz}]?.ico.gz",
       "AssetKind": "All",
@@ -28,20 +28,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "/Users/Jake/Desktop/Chirp.Razor-kopi/wwwroot/favicon/favicon.ico",
+      "RelatedAsset": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/wwwroot/favicon/favicon.ico",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "9sgccr2a34",
       "Integrity": "+Vf7GfJjs4hAxxVH6RpgXEts2myKB3Y7hu53eQ8lqVY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/Jake/Desktop/Chirp.Razor-kopi/wwwroot/favicon/favicon.ico"
+      "OriginalItemSpec": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/wwwroot/favicon/favicon.ico"
     },
     {
-      "Identity": "/Users/Jake/Desktop/Chirp.Razor-kopi/obj/Debug/net9.0/compressed/oc03b9kklz-7wkcbuwnln.gz",
+      "Identity": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/obj/Debug/net9.0/compressed/oc03b9kklz-7wkcbuwnln.gz",
       "SourceId": "Chirp.Razor",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/Jake/Desktop/Chirp.Razor-kopi/obj/Debug/net9.0/compressed/",
+      "ContentRoot": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/Chirp.Razor",
       "RelativePath": "css/style#[.{fingerprint=7wkcbuwnln}]?.css.gz",
       "AssetKind": "All",
@@ -49,20 +49,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "/Users/Jake/Desktop/Chirp.Razor-kopi/wwwroot/css/style.css",
+      "RelatedAsset": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/wwwroot/css/style.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "n78dseadxt",
       "Integrity": "095wmqFOl48hMAsr1CZvMNQzNaSl7gopJIgUXDsW2kc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/Jake/Desktop/Chirp.Razor-kopi/wwwroot/css/style.css"
+      "OriginalItemSpec": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/wwwroot/css/style.css"
     },
     {
-      "Identity": "/Users/Jake/Desktop/Chirp.Razor-kopi/wwwroot/css/style.css",
+      "Identity": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/wwwroot/css/style.css",
       "SourceId": "Chirp.Razor",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/Jake/Desktop/Chirp.Razor-kopi/wwwroot/",
+      "ContentRoot": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/wwwroot/",
       "BasePath": "_content/Chirp.Razor",
       "RelativePath": "css/style#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot/css/style.css"
     },
     {
-      "Identity": "/Users/Jake/Desktop/Chirp.Razor-kopi/wwwroot/favicon/favicon.ico",
+      "Identity": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/wwwroot/favicon/favicon.ico",
       "SourceId": "Chirp.Razor",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/Jake/Desktop/Chirp.Razor-kopi/wwwroot/",
+      "ContentRoot": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/wwwroot/",
       "BasePath": "_content/Chirp.Razor",
       "RelativePath": "favicon/favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot/favicon/favicon.ico"
     },
     {
-      "Identity": "/Users/Jake/Desktop/Chirp.Razor-kopi/wwwroot/images/icon1.png",
+      "Identity": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/wwwroot/images/icon1.png",
       "SourceId": "Chirp.Razor",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/Jake/Desktop/Chirp.Razor-kopi/wwwroot/",
+      "ContentRoot": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/wwwroot/",
       "BasePath": "_content/Chirp.Razor",
       "RelativePath": "images/icon1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot/images/icon1.png"
     },
     {
-      "Identity": "/Users/Jake/Desktop/Chirp.Razor-kopi/wwwroot/sample/dump.sql",
+      "Identity": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/wwwroot/sample/dump.sql",
       "SourceId": "Chirp.Razor",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/Jake/Desktop/Chirp.Razor-kopi/wwwroot/",
+      "ContentRoot": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/wwwroot/",
       "BasePath": "_content/Chirp.Razor",
       "RelativePath": "sample/dump#[.{fingerprint}]?.sql",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot/sample/dump.sql"
     },
     {
-      "Identity": "/Users/Jake/Desktop/Chirp.Razor-kopi/wwwroot/sample/schema.sql",
+      "Identity": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/wwwroot/sample/schema.sql",
       "SourceId": "Chirp.Razor",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/Jake/Desktop/Chirp.Razor-kopi/wwwroot/",
+      "ContentRoot": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/wwwroot/",
       "BasePath": "_content/Chirp.Razor",
       "RelativePath": "sample/schema#[.{fingerprint}]?.sql",
       "AssetKind": "All",
@@ -167,7 +167,7 @@
   "Endpoints": [
     {
       "Route": "css/style.7wkcbuwnln.css",
-      "AssetFile": "/Users/Jake/Desktop/Chirp.Razor-kopi/obj/Debug/net9.0/compressed/oc03b9kklz-7wkcbuwnln.gz",
+      "AssetFile": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/obj/Debug/net9.0/compressed/oc03b9kklz-7wkcbuwnln.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -190,7 +190,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 01 Oct 2025 08:23:04 GMT"
+          "Value": "Wed, 01 Oct 2025 10:49:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -230,7 +230,7 @@
     },
     {
       "Route": "css/style.7wkcbuwnln.css",
-      "AssetFile": "/Users/Jake/Desktop/Chirp.Razor-kopi/wwwroot/css/style.css",
+      "AssetFile": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/wwwroot/css/style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -251,7 +251,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 01 Oct 2025 08:23:04 GMT"
+          "Value": "Wed, 01 Oct 2025 10:49:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -275,7 +275,7 @@
     },
     {
       "Route": "css/style.7wkcbuwnln.css.gz",
-      "AssetFile": "/Users/Jake/Desktop/Chirp.Razor-kopi/obj/Debug/net9.0/compressed/oc03b9kklz-7wkcbuwnln.gz",
+      "AssetFile": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/obj/Debug/net9.0/compressed/oc03b9kklz-7wkcbuwnln.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -296,7 +296,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 01 Oct 2025 08:23:04 GMT"
+          "Value": "Wed, 01 Oct 2025 10:49:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -328,7 +328,7 @@
     },
     {
       "Route": "css/style.css",
-      "AssetFile": "/Users/Jake/Desktop/Chirp.Razor-kopi/obj/Debug/net9.0/compressed/oc03b9kklz-7wkcbuwnln.gz",
+      "AssetFile": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/obj/Debug/net9.0/compressed/oc03b9kklz-7wkcbuwnln.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -351,7 +351,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 01 Oct 2025 08:23:04 GMT"
+          "Value": "Wed, 01 Oct 2025 10:49:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -383,7 +383,7 @@
     },
     {
       "Route": "css/style.css",
-      "AssetFile": "/Users/Jake/Desktop/Chirp.Razor-kopi/wwwroot/css/style.css",
+      "AssetFile": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/wwwroot/css/style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -404,7 +404,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 01 Oct 2025 08:23:04 GMT"
+          "Value": "Wed, 01 Oct 2025 10:49:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -420,7 +420,7 @@
     },
     {
       "Route": "css/style.css.gz",
-      "AssetFile": "/Users/Jake/Desktop/Chirp.Razor-kopi/obj/Debug/net9.0/compressed/oc03b9kklz-7wkcbuwnln.gz",
+      "AssetFile": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/obj/Debug/net9.0/compressed/oc03b9kklz-7wkcbuwnln.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -441,7 +441,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 01 Oct 2025 08:23:04 GMT"
+          "Value": "Wed, 01 Oct 2025 10:49:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -465,7 +465,7 @@
     },
     {
       "Route": "favicon/favicon.411fskxpwz.ico",
-      "AssetFile": "/Users/Jake/Desktop/Chirp.Razor-kopi/obj/Debug/net9.0/compressed/736nyudt1j-411fskxpwz.gz",
+      "AssetFile": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/obj/Debug/net9.0/compressed/736nyudt1j-411fskxpwz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -488,7 +488,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 01 Oct 2025 08:23:04 GMT"
+          "Value": "Wed, 01 Oct 2025 10:49:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -528,7 +528,7 @@
     },
     {
       "Route": "favicon/favicon.411fskxpwz.ico",
-      "AssetFile": "/Users/Jake/Desktop/Chirp.Razor-kopi/wwwroot/favicon/favicon.ico",
+      "AssetFile": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/wwwroot/favicon/favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -549,7 +549,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 01 Oct 2025 08:23:04 GMT"
+          "Value": "Wed, 01 Oct 2025 10:49:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -573,7 +573,7 @@
     },
     {
       "Route": "favicon/favicon.411fskxpwz.ico.gz",
-      "AssetFile": "/Users/Jake/Desktop/Chirp.Razor-kopi/obj/Debug/net9.0/compressed/736nyudt1j-411fskxpwz.gz",
+      "AssetFile": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/obj/Debug/net9.0/compressed/736nyudt1j-411fskxpwz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -594,7 +594,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 01 Oct 2025 08:23:04 GMT"
+          "Value": "Wed, 01 Oct 2025 10:49:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -626,7 +626,7 @@
     },
     {
       "Route": "favicon/favicon.ico",
-      "AssetFile": "/Users/Jake/Desktop/Chirp.Razor-kopi/obj/Debug/net9.0/compressed/736nyudt1j-411fskxpwz.gz",
+      "AssetFile": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/obj/Debug/net9.0/compressed/736nyudt1j-411fskxpwz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -649,7 +649,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 01 Oct 2025 08:23:04 GMT"
+          "Value": "Wed, 01 Oct 2025 10:49:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -681,7 +681,7 @@
     },
     {
       "Route": "favicon/favicon.ico",
-      "AssetFile": "/Users/Jake/Desktop/Chirp.Razor-kopi/wwwroot/favicon/favicon.ico",
+      "AssetFile": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/wwwroot/favicon/favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -702,7 +702,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 01 Oct 2025 08:23:04 GMT"
+          "Value": "Wed, 01 Oct 2025 10:49:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -718,7 +718,7 @@
     },
     {
       "Route": "favicon/favicon.ico.gz",
-      "AssetFile": "/Users/Jake/Desktop/Chirp.Razor-kopi/obj/Debug/net9.0/compressed/736nyudt1j-411fskxpwz.gz",
+      "AssetFile": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/obj/Debug/net9.0/compressed/736nyudt1j-411fskxpwz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -739,7 +739,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 01 Oct 2025 08:23:04 GMT"
+          "Value": "Wed, 01 Oct 2025 10:49:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -763,7 +763,7 @@
     },
     {
       "Route": "images/icon1.png",
-      "AssetFile": "/Users/Jake/Desktop/Chirp.Razor-kopi/wwwroot/images/icon1.png",
+      "AssetFile": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/wwwroot/images/icon1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -784,7 +784,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 01 Oct 2025 08:23:04 GMT"
+          "Value": "Wed, 01 Oct 2025 10:49:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -800,7 +800,7 @@
     },
     {
       "Route": "images/icon1.wd67pfgx6j.png",
-      "AssetFile": "/Users/Jake/Desktop/Chirp.Razor-kopi/wwwroot/images/icon1.png",
+      "AssetFile": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/wwwroot/images/icon1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -821,7 +821,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 01 Oct 2025 08:23:04 GMT"
+          "Value": "Wed, 01 Oct 2025 10:49:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -845,7 +845,7 @@
     },
     {
       "Route": "sample/dump.f857ewo1kj.sql",
-      "AssetFile": "/Users/Jake/Desktop/Chirp.Razor-kopi/wwwroot/sample/dump.sql",
+      "AssetFile": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/wwwroot/sample/dump.sql",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -866,7 +866,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 01 Oct 2025 08:23:04 GMT"
+          "Value": "Wed, 01 Oct 2025 10:49:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -890,7 +890,7 @@
     },
     {
       "Route": "sample/dump.sql",
-      "AssetFile": "/Users/Jake/Desktop/Chirp.Razor-kopi/wwwroot/sample/dump.sql",
+      "AssetFile": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/wwwroot/sample/dump.sql",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -911,7 +911,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 01 Oct 2025 08:23:04 GMT"
+          "Value": "Wed, 01 Oct 2025 10:49:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -927,7 +927,7 @@
     },
     {
       "Route": "sample/schema.95seddkcve.sql",
-      "AssetFile": "/Users/Jake/Desktop/Chirp.Razor-kopi/wwwroot/sample/schema.sql",
+      "AssetFile": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/wwwroot/sample/schema.sql",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -948,7 +948,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 01 Oct 2025 08:23:04 GMT"
+          "Value": "Wed, 01 Oct 2025 10:49:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -972,7 +972,7 @@
     },
     {
       "Route": "sample/schema.sql",
-      "AssetFile": "/Users/Jake/Desktop/Chirp.Razor-kopi/wwwroot/sample/schema.sql",
+      "AssetFile": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/wwwroot/sample/schema.sql",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -993,7 +993,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 01 Oct 2025 08:23:04 GMT"
+          "Value": "Wed, 01 Oct 2025 10:49:40 GMT"
         },
         {
           "Name": "Cache-Control",

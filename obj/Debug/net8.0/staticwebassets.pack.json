@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "/Users/Jake/Desktop/Chirp.Razor-kopi/wwwroot/css/style.css",
+      "Id": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/wwwroot/css/style.css",
       "PackagePath": "staticwebassets/css/style.css"
     },
     {
-      "Id": "/Users/Jake/Desktop/Chirp.Razor-kopi/wwwroot/favicon/favicon.ico",
+      "Id": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/wwwroot/favicon/favicon.ico",
       "PackagePath": "staticwebassets/favicon/favicon.ico"
     },
     {
-      "Id": "/Users/Jake/Desktop/Chirp.Razor-kopi/wwwroot/images/icon1.png",
+      "Id": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/wwwroot/images/icon1.png",
       "PackagePath": "staticwebassets/images/icon1.png"
     },
     {
-      "Id": "/Users/Jake/Desktop/Chirp.Razor-kopi/wwwroot/sample/dump.sql",
+      "Id": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/wwwroot/sample/dump.sql",
       "PackagePath": "staticwebassets/sample/dump.sql"
     },
     {
-      "Id": "/Users/Jake/Desktop/Chirp.Razor-kopi/wwwroot/sample/schema.sql",
+      "Id": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/wwwroot/sample/schema.sql",
       "PackagePath": "staticwebassets/sample/schema.sql"
     },
     {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Jake/Desktop/Chirp.Razor-kopi/Chirp.Razor.csproj": {}
+    "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/Chirp.Razor.csproj": {}
   },
   "projects": {
-    "/Users/Jake/Desktop/Chirp.Razor-kopi/Chirp.Razor.csproj": {
+    "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/Chirp.Razor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Jake/Desktop/Chirp.Razor-kopi/Chirp.Razor.csproj",
+        "projectUniqueName": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/Chirp.Razor.csproj",
         "projectName": "Chirp.Razor",
-        "projectPath": "/Users/Jake/Desktop/Chirp.Razor-kopi/Chirp.Razor.csproj",
+        "projectPath": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/Chirp.Razor.csproj",
         "packagesPath": "/Users/Jake/.nuget/packages/",
-        "outputPath": "/Users/Jake/Desktop/Chirp.Razor-kopi/obj/",
+        "outputPath": "/Users/Jake/Desktop/ITU/5-semester/TA/Chirp.Razor/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Jake/.nuget/NuGet/NuGet.Config"
